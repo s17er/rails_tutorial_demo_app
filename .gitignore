@@ -15,6 +15,7 @@
 # Ignore unneed other files.
 doc/
 *.swp
+*.db
 *~
 .project
 .DS_Store
